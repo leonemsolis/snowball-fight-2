@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/leonemsolis/Documents/android/SnowballFight2.0/android/src/main/shaders"/></dataSet><dataSet config="release"><source path="/Users/leonemsolis/Documents/android/SnowballFight2.0/android/src/release/shaders"/></dataSet></merger>
